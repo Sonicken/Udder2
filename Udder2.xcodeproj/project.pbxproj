@@ -12,6 +12,7 @@
 		CE7058B720B5BD1700EA0A5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE7058B520B5BD1700EA0A5E /* Main.storyboard */; };
 		CE7058B920B5BD1D00EA0A5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE7058B820B5BD1D00EA0A5E /* Assets.xcassets */; };
 		CE7058BC20B5BD1D00EA0A5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE7058BA20B5BD1D00EA0A5E /* LaunchScreen.storyboard */; };
+		CE7058C420B5BDF600EA0A5E /* Happy-Sitting-Dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE7058C320B5BDF600EA0A5E /* Happy-Sitting-Dog.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CE7058B820B5BD1D00EA0A5E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE7058BB20B5BD1D00EA0A5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE7058BD20B5BD1D00EA0A5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE7058C320B5BDF600EA0A5E /* Happy-Sitting-Dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Happy-Sitting-Dog.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				CE7058B120B5BD1700EA0A5E /* AppDelegate.swift */,
 				CE7058B320B5BD1700EA0A5E /* ViewController.swift */,
 				CE7058B520B5BD1700EA0A5E /* Main.storyboard */,
+				CE7058C320B5BDF600EA0A5E /* Happy-Sitting-Dog.jpg */,
 				CE7058B820B5BD1D00EA0A5E /* Assets.xcassets */,
 				CE7058BA20B5BD1D00EA0A5E /* LaunchScreen.storyboard */,
 				CE7058BD20B5BD1D00EA0A5E /* Info.plist */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE7058C420B5BDF600EA0A5E /* Happy-Sitting-Dog.jpg in Resources */,
 				CE7058BC20B5BD1D00EA0A5E /* LaunchScreen.storyboard in Resources */,
 				CE7058B920B5BD1D00EA0A5E /* Assets.xcassets in Resources */,
 				CE7058B720B5BD1700EA0A5E /* Main.storyboard in Resources */,
